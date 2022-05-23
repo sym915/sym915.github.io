@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "宋亦明"
-  avatar           : "profile.png"
+  avatar           : "symprofile.jpg"
   bio              : "中国人民大学国际关系学院国际政治经济学专业博士候选人"
   location         : "洛杉矶"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "sym915@ruc.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "sym915"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "YimingSong"
   vine             :
   weibo            :
   xing             :
