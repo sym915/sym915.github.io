@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-这是我的博客
+我将在2022年8月更新2篇博文，敬请关注。
