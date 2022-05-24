@@ -34,9 +34,13 @@ redirect_from:
 11.《19世纪末20世纪初美国的拉丁美洲贸易外交》（第三作者，与白云真、石少锋合作），载《拉丁美洲研究》，2015年第4期，第51-57页。<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper1.pdf)  [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2015&filename=LDMZ201504009&uniplatform=NZKPT&v=XWrDupyH212lih79re67IBlv2dBYGsXcRYpOz5mSfihvsoLndImqDm9yXPwq7UoN) <br>
 
-# 译著
-
-
+# 译著/译文
+1.格雷厄姆·艾莉森：《中美能避免修昔底德陷阱吗？》，宋亦明译，载《世界政治研究》，2019年第1辑，第45-49页。<br>
+   &emsp;&emsp;[在线全文](http://sym915.github.io/files/translation3.pdf) [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCJD&dbname=CCJDLAST2&filename=WPJK201901001&uniplatform=NZKPT&v=GyFba9dhAARG5jX-vLbnHvTrtU_5oHSOdjzg4vFNWuX3wqdxafkDj4f0TC_C79Ez) <br>
+2.阿米塔夫·阿查亚：《重新思考世界政治中的权力、制度与观念》，白云真、宋亦明译，上海：上海人民出版社，2019年版。<br>
+   &emsp;&emsp;[封面及目录](http://sym915.github.io/files/translation2.pdf) [购买链接](http://product.dangdang.com/27901108.html) <br>
+3.保罗·维奥蒂：《美元与国家安全：硬权力的货币维度》，白云真、宋亦明译，上海：上海人民出版社，2018年版。<br>
+   &emsp;&emsp;[封面及目录](http://sym915.github.io/files/translation1.pdf) [购买链接](http://product.dangdang.com/25287944.html) <br>
 
 # 编著
 
