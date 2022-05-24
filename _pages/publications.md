@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# 论文
+# 学术论文
 
 1.《疫情阴影下的危机应对——2020年中国经济外交报告》（第二作者，与李巍合作），载《战略决策研究》，2021年第3期，第3-35页。<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper11.pdf)  [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=ZLJC202103001&uniplatform=NZKPT&v=lixjEIarD0ZkM9CGVZpY2sdf2uUxiG1TX9HtTfLuSyU3u-k6m0S8bd8C78_aQT8X)<br>
