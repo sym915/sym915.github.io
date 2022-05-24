@@ -8,9 +8,6 @@ main:
     
   - title: "数据"
     url: /portfolio/
-        
-  - title: "博客"
-    url: /year-archive/
-    
+
   - title: "简历"
     url: /cv/
