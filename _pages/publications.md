@@ -12,7 +12,7 @@ redirect_from:
 # 论文
 
 1.《疫情阴影下的危机应对——2020年中国经济外交报告》（第二作者，与李巍合作），载《战略决策研究》，2021年第3期，第3-35页。<br>
-   &emsp;[在线全文]()  [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=ZLJC202103001&uniplatform=NZKPT&v=lixjEIarD0ZkM9CGVZpY2sdf2uUxiG1TX9HtTfLuSyU3u-k6m0S8bVlGgZsX0T0f)<br>
+   &emsp;&emsp;[在线全文]()  [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=ZLJC202103001&uniplatform=NZKPT&v=lixjEIarD0ZkM9CGVZpY2sdf2uUxiG1TX9HtTfLuSyU3u-k6m0S8bVlGgZsX0T0f)<br>
 2.《制度竞争与国际制度的等级制》，载《世界经济与政治》，2021年第4期，第33-60页。<br>
    &emsp;[在线全文]()  [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=SJJZ202104003&uniplatform=NZKPT&v=0oEg8l_tJp9Af2rIWZF6G07qa0ewnlYHyvdmljqQ2mgMq1wp-V7w3eoUzTrAVQGJ)<br>
 3.《“能源祝福”与“能源诅咒”的政治分流——基于产权制度的解释》（第一作者，与邹仪婷合作），载《世界政治研究》，2020年第4期，第93-137页。<br>
