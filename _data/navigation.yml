@@ -9,5 +9,11 @@ main:
   - title: "数据"
     url: /data/
 
+  - title: "博客"
+    url: /blog/
+    
   - title: "简历"
     url: /cv/
+
+  - title: "联系"
+    url: /contact/
