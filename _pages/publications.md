@@ -54,7 +54,7 @@ redirect_from:
 
 # 评论
 
-1.“Rethinking the National Interest in the World Energy System,” China International Strategy Review, Vol.3, No.2, 2021, pp.345-349.<br>
+1.“Rethinking the National Interest in the World Energy System,” *China International Strategy Review*, Vol.3, No.2, 2021, pp.345-349.<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/review4.pdf) [访问链接](https://link.springer.com/article/10.1007/s42533-021-00084-w) <br>
 2.《重塑国际能源版图：急速扩张的美国能源出口》，载《世界知识》2018年第12期，第53-55页。<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/review3.pdf) [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=SJZS201812031&uniplatform=NZKPT&v=V5T0XXQqg-RIQat36W2DrzT36HCK4GsvfDccrWNXKOlYIb3IOZcDPnBwq8lHrWjk) <br>
