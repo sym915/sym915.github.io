@@ -1,9 +1,9 @@
 # main links links
 main:
- - title: "教学"
+  - title: "教学"
     url: /teaching/    
  
- - title: "研究"
+  - title: "研究"
     url: /publications/   
     
   - title: "数据"
