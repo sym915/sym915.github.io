@@ -1,16 +1,23 @@
 ---
 layout: archive
-title: "Publications"
+title: 
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# 论文
 
-{% include base_path %}
+11.《19世纪末20世纪初美国的拉丁美洲贸易外交》（第三作者，与白云真、石少锋合作），载《拉丁美洲研究》，2015年第4期，第51至57页。
+&nbsp; 在线全文  知网链接
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+
+
+# 译著
+
+
+
+# 编著
+
+
+# 评论
