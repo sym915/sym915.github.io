@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: 
-permalink: /data/
+permalink: /blog/
 author_profile: true
 redirect_from:
   - /resume
