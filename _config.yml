@@ -300,6 +300,11 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
+gallery:
+  - url: 
+    image_path: /images/symprofile.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 
 
 # HTML Compression
