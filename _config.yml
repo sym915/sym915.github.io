@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "宋亦明 | 中国人民大学"
 title_separator          : "-"
 name                     : &name "宋亦明"
-description              : &description "中国人民大学博士候选人"
+description              : &description "中国人民大学博士"
 url                      : https://sym915.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sym915/academicpages.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "宋亦明"
   avatar           : "symprofile.jpg"
-  bio              : "中国人民大学国际关系学院博士候选人"
+  bio              : "中国人民大学国际政治经济学专业博士"
   location         : "洛杉矶"
-  employer         :
+  employer         : "北京外国语大学国际关系学院"
   pubmed           : 
   email            : "sym915@ruc.edu.cn"
   researchgate     :  
