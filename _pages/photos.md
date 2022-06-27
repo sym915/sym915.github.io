@@ -11,6 +11,6 @@ redirect_from:
 
 # 2014年2月，泰国普吉府
 <img class="fit-picture"
-     src="/images/1.jpg"
+     src="/images/1.JPG"
      alt="2014年2月，泰国普吉府">
 
