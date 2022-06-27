@@ -32,7 +32,7 @@ redirect_from:
 <br> 
 ### 2019年8月，韩国釜山市The Bay 101
 <img class="fit-picture"
-     src="/images/27.JPG"
+     src="/images/27.jpg"
      alt="2019年8月，韩国釜山市The Bay 101">
 <br> 
 ### 2019年8月，韩国首尔市光化门
@@ -47,12 +47,12 @@ redirect_from:
 <br> 
 ### 2018年8月，日本东京市东京铁塔
 <img class="fit-picture"
-     src="/images/24.JPG"
+     src="/images/24.jpg"
      alt="2018年8月，日本东京市东京铁塔">
 <br> 
 ### 2018年1月，埃及吉萨省胡夫金字塔
 <img class="fit-picture"
-     src="/images/23.JPG"
+     src="/images/23.jpg"
      alt="2018年1月，埃及吉萨省胡夫金字塔">
 <br> 
 ### 2018年1月，土耳其伊斯坦布尔圣索菲亚大教堂和苏丹艾哈迈德清真寺
@@ -82,42 +82,42 @@ redirect_from:
 <br> 
 ### 2017年1月，西班牙格拉纳达阿尔罕布拉宫
 <img class="fit-picture"
-     src="/images/17.JPG"
+     src="/images/17.jpg"
      alt="2017年1月，西班牙格拉纳达阿尔罕布拉宫">
 <br> 
 ### 2017年1月，希腊雅典希罗德·阿提库斯剧场
 <img class="fit-picture"
-     src="/images/16.JPG"
+     src="/images/16.jpg"
      alt="2017年1月，希腊雅典希罗德·阿提库斯剧场">
 <br> 
 ### 2017年1月，希腊圣托里尼伊亚
 <img class="fit-picture"
-     src="/images/15.JPG"
+     src="/images/15.jpg"
      alt="2017年1月，希腊圣托里尼伊亚">
 <br> 
 ### 2016年2月，澳大利亚悉尼海港大桥
 <img class="fit-picture"
-     src="/images/14.JPG"
+     src="/images/14.jpg"
      alt="2016年2月，澳大利亚悉尼海港大桥">
 <br> 
 ### 2016年1月，澳大利亚昆士兰黄金海岸
 <img class="fit-picture"
-     src="/images/13.JPG"
+     src="/images/13.jpg"
      alt="2016年1月，澳大利亚昆士兰黄金海岸">
 <br> 
 ### 2016年1月，新西兰奥克兰伊甸山
 <img class="fit-picture"
-     src="/images/12.JPG"
+     src="/images/12.jpg"
      alt="2016年1月，新西兰奥克兰伊甸山">
 <br> 
 ### 2016年1月，北京市海淀区颐和园
 <img class="fit-picture"
-     src="/images/11.JPG"
+     src="/images/11.jpg"
      alt="2016年1月，北京市海淀区颐和园">
 <br> 
 ### 2015年12月，吉林省吉林市龙潭山
 <img class="fit-picture"
-     src="/images/10.JPG"
+     src="/images/10.jpg"
      alt="2015年12月，吉林省吉林市龙潭山">
 <br> 
 ### 2015年11月，北京市东城区故宫
