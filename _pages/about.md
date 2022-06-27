@@ -15,6 +15,6 @@ redirect_from:
  <br>
 如果您希望进一步了解我的情况，请留意：我的教育背景、所获荣誉、课题资助、学术活动可见于[简历](http://sym915.github.io/files/symCV2022.5.21.pdf)；已刊发的同行评议论文、翻译的文章及书籍、参编的书籍及其他学术性评论可见于[研究](https://sym915.github.io/publications/)；已开设或拟开设的课程及教学大纲可见于[教学](https://sym915.github.io/teaching/)；搜集整理而得的原创数据集可见于[数据](https://sym915.github.io/data/)；围绕特定问题的看法及相应的阐释可见于[博客](https://sym915.github.io/blog/)。 <br>
  <br>
-此外，我正在推进和计划推进的研究可见于[工作论文及研究议程](http://sym915.github.io/wprp)，期待您针对这些研究提出指导和批评。<br>
+此外，我正在推进和计划推进的研究可见于[工作论文及研究议程](http://sym915.github.io/wprp/)，期待您针对这些研究提出指导和批评。<br>
  <br>
-学术是我生活中的重要部分但并非全部，闲暇之余我非常喜欢旅行和风光摄影。我的部分摄影作品可见于[摄影](http://sym915.github.io/photos)。
+学术是我生活中的重要部分但并非全部，闲暇之余我非常喜欢旅行和风光摄影。我的部分摄影作品可见于[摄影](http://sym915.github.io/photos/)。
