@@ -12,9 +12,9 @@ redirect_from:
 ## 工作论文
 
 1.《“能源诅咒”的政治起源：现代化始点、产业联盟与产权制度》（博士论文），2022年6月。<br>
-   &emsp;&emsp;[内容提纲](sym915.github.io/files/wprp1.pdf) <br>
+   &emsp;&emsp;[内容提纲](http://sym915.github.io/files/wprp1.pdf) <br>
 2.《国际制度竞争的演进逻辑》，（第一作者，与李冰合作），2021年5月。<br>
-   &emsp;&emsp;[内容提纲](sym915.github.io/files/wprp2.pdf) <br>
+   &emsp;&emsp;[内容提纲](http://sym915.github.io/files/wprp2.pdf) <br>
    
 ## 研究议程
 
