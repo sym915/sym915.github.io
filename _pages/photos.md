@@ -33,7 +33,7 @@ redirect_from:
 <br>  
 ### 2014年8月，台湾省花莲市清水断崖
 <img class="fit-picture"
-     src="/images/3.JPG"
+     src="/images/3.jpg"
      alt="2014年8月，台湾省花莲市清水断崖">
 <br> 
 ### 2014年2月，泰国普吉府普吉岛
