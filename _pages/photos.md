@@ -11,7 +11,6 @@ redirect_from:
 
 # 摄影
 <br>
-<br>
 ### 2021年4月、2020年9月、2019年11月、2018年11月，北京市海淀区中国人民大学
 <img class="fit-picture"
      src="/images/31.JPG"
