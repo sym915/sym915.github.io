@@ -11,5 +11,5 @@ redirect_from:
 
 我将在2022年8月发布2篇博文，敬请关注。
 <br>
-[国际政治经济学中的“盲点”](http://sym915.github.io/sub-blog1/)  2022.7.26
+[国际政治经济学中的“盲点”](http://sym915.github.io/sub-blog1/) &emsp; 2022.7.26
 
