@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ## 研究
-<br>
 
 ### 学术论文
 
