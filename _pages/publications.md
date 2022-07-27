@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-## 学术论文
+## 研究
+<br>
+### 学术论文
 
 1.《疫情阴影下的危机应对——2020年中国经济外交报告》（第二作者，与李巍合作），载《战略决策研究》，2021年第3期，第3-35页。<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper11.pdf)  [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=ZLJC202103001&uniplatform=NZKPT&v=lixjEIarD0ZkM9CGVZpY2sdf2uUxiG1TX9HtTfLuSyU3u-k6m0S8bd8C78_aQT8X)<br>
@@ -34,7 +36,7 @@ redirect_from:
 11.《19世纪末20世纪初美国的拉丁美洲贸易外交》（第三作者，与白云真、石少锋合作），载《拉丁美洲研究》，2015年第4期，第51-57页。<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper1.pdf)  [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2015&filename=LDMZ201504009&uniplatform=NZKPT&v=XWrDupyH212lih79re67IBlv2dBYGsXcRYpOz5mSfihvsoLndImqDm9yXPwq7UoN) <br>
 
-## 译著/译文
+### 译著/译文
 
 1.格雷厄姆·艾莉森：《中美能避免修昔底德陷阱吗？》，宋亦明译，载《世界政治研究》，2019年第1辑，第45-49页。<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/translation3.pdf) [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCJD&dbname=CCJDLAST2&filename=WPJK201901001&uniplatform=NZKPT&v=GyFba9dhAARG5jX-vLbnHvTrtU_5oHSOdjzg4vFNWuX3wqdxafkDj4f0TC_C79Ez) <br>
@@ -43,7 +45,7 @@ redirect_from:
 3.保罗·维奥蒂：《美元与国家安全：硬权力的货币维度》，白云真、宋亦明译，上海：上海人民出版社，2018年版。<br>
    &emsp;&emsp;[封面及目录](http://sym915.github.io/files/translation1.pdf) [购买链接](http://product.dangdang.com/25287944.html) <br>
 
-## 编著
+### 编著
 
 1.《中国经济外交蓝皮书（2020）:在世界经济裂变中负重前行》（副主编，与李巍、张玉环等合编），北京：中国社会科学出版社，2020年版。<br>
    &emsp;&emsp;[封面及目录](http://sym915.github.io/files/editbook3.pdf) [购买链接](http://product.dangdang.com/29149993.html) <br>
@@ -52,7 +54,7 @@ redirect_from:
 3.《中国经济外交蓝皮书（2018）:国际经济舞台上的外交引领者》（副主编，与李巍、张玉环等合编），北京：中国社会科学出版社，2018年版。<br>
    &emsp;&emsp;[封面及目录](http://sym915.github.io/files/editbook1.pdf) [购买链接](http://product.dangdang.com/25261428.html) <br>
 
-## 评论
+### 评论
 
 1.“Rethinking the National Interest in the World Energy System,” *China International Strategy Review*, Vol.3, No.2, 2021, pp.345-349.<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/review4.pdf) [访问链接](https://link.springer.com/article/10.1007/s42533-021-00084-w) <br>
