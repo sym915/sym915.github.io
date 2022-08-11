@@ -11,6 +11,76 @@ redirect_from:
 
 # 摄影
 
+### 2022年7月，美国圣地亚哥斯克里普斯码头
+<img class="fit-picture"
+     src="/images/45.JPG"
+     alt="2022年7月，美国圣地亚哥斯克里普斯码头">
+<br>
+### 2022年7月，美国圣地亚哥海洋世界
+<img class="fit-picture"
+     src="/images/44.JPG"
+     alt="2022年7月，美国圣地亚哥海洋世界">
+<br>
+### 2022年7月，美国圣地亚哥巴博亚公园
+<img class="fit-picture"
+     src="/images/43.JPG"
+     alt="2022年7月，美国圣地亚哥巴博亚公园">
+<br>
+### 2022年7月，美国洛杉矶马里布海滩
+<img class="fit-picture"
+     src="/images/42.jpg"
+     alt="2022年7月，美国洛杉矶马里布海滩">
+<br>
+### 2022年6月，美国华盛顿国会大厦
+<img class="fit-picture"
+     src="/images/41.JPG"
+     alt="2022年6月，美国华盛顿国会大厦">
+<br>
+### 2022年6月，美国纽约大松果
+<img class="fit-picture"
+     src="/images/40.JPG"
+     alt="2022年6月，美国纽约大松果">
+<br>
+### 2022年6月，美国纽约布鲁克林大桥
+<img class="fit-picture"
+     src="/images/39.JPG"
+     alt="2022年6月，美国纽约布鲁克林大桥">
+<br> 
+### 2022年6月，美国纽约曼哈顿大桥
+<img class="fit-picture"
+     src="/images/38.JPG"
+     alt="2022年6月，美国纽约曼哈顿大桥">
+<br> 
+### 2022年6月，美国纽约自由女神像
+<img class="fit-picture"
+     src="/images/37.JPG"
+     alt="2022年6月，美国纽约自由女神像">
+<br> 
+### 2022年6月，美国波士顿哈佛地铁站
+<img class="fit-picture"
+     src="/images/36.JPG"
+     alt="2022年6月，美国波士顿哈佛地铁站">
+<br> 
+### 2022年5月，美国洛杉矶天使铁路
+<img class="fit-picture"
+     src="/images/35.JPG"
+     alt="2022年5月，美国洛杉矶天使铁路">
+<br> 
+### 2022年5月，美国洛杉矶加州大学-洛杉矶分校
+<img class="fit-picture"
+     src="/images/34.JPG"
+     alt="2022年5月，美国洛杉矶加州大学-洛杉矶分校">
+<br> 
+### 2022年5月，美国洛杉矶艺术博物馆
+<img class="fit-picture"
+     src="/images/33.JPG"
+     alt="2022年5月，美国洛杉矶艺术博物馆">
+<br> 
+### 2022年4月，美国洛杉矶圣莫尼卡码头
+<img class="fit-picture"
+     src="/images/32.JPG"
+     alt="2022年4月，美国洛杉矶圣莫尼卡码头">
+<br> 
 ### 2021年4月、2020年9月、2019年11月、2018年11月，北京市海淀区中国人民大学
 <img class="fit-picture"
      src="/images/31.JPG"
