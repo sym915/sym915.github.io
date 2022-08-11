@@ -38,7 +38,7 @@ redirect_from:
 <br>
 ### 2022年6月，美国纽约大松果
 <img class="fit-picture"
-     src="/images/40.JPG"
+     src="/images/40.jpg"
      alt="2022年6月，美国纽约大松果">
 <br>
 ### 2022年6月，美国纽约布鲁克林大桥
