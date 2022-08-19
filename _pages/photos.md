@@ -16,11 +16,6 @@ redirect_from:
      src="/images/45.JPG"
      alt="2022年7月，美国圣地亚哥斯克里普斯码头">
 <br>
-### 2022年7月，美国圣地亚哥海洋世界
-<img class="fit-picture"
-     src="/images/44.JPG"
-     alt="2022年7月，美国圣地亚哥海洋世界">
-<br>
 ### 2022年7月，美国圣地亚哥巴博亚公园
 <img class="fit-picture"
      src="/images/43.JPG"
