@@ -9,5 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-我将在2022年9月更新教学信息，届时会展示我所开设的课程及其教学大纲。
+## 研究生课程
+“能源政治经济学”  秋季学期  [课程大纲](http://sym915.github.io/files/Syllabus Political Economy of Energy.pdf)
 
+## 本科生课程
+“外交决策”  秋季学期  [课程大纲](http://sym915.github.io/files/Syllabus Foreign Policy Decision Making.pdf)
