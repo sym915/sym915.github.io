@@ -62,4 +62,8 @@ redirect_from:
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/review2.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=SJZS201806019&uniplatform=NZKPT&v=V5T0XXQqg-St6yDMUBzQWFQhePtHj6mN4RrKlT96x51Owwbf0yY6YR9w8AyqLCLS) <br>
 4.《特朗普打开中美贸易战的潘多拉魔盒》（第二作者，与李巍合作），载《中国新闻周刊》第818期，第43-45页。<br>
    &emsp;&emsp;[在线全文](http://www.zgxwzk.chinanews.com.cn/2/2017-08-28/463.shtml)
+5.《评<制衡美元>》，载《中国青年报》2016年11月7日第2版。<br>
+   &emsp;&emsp;[在线全文](http://zqb.cyol.com/html/2016-11/07/nw.D110000zgqnb_20161107_3-02.htm)
+6.《谁能领导分化的美国？美国总统选战前瞻》，载《中国人民大学》2016年11月7日第3版。<br>
+   &emsp;&emsp;[在线全文](http://ruc.ihwrm.com/index/article/articleinfo.html?doc_id=1545173)
 
