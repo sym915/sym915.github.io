@@ -63,7 +63,7 @@ redirect_from:
 4.《特朗普打开中美贸易战的潘多拉魔盒》（第二作者，与李巍合作），载《中国新闻周刊》第818期，第43-45页。<br>
    &emsp;&emsp;[在线全文](http://www.zgxwzk.chinanews.com.cn/2/2017-08-28/463.shtml) <br>
 5.《评<制衡美元>》，载《中国青年报》2016年11月7日第2版。<br>
-   &emsp;&emsp;[在线全文](http://zqb.cyol.com/html/2016-11/07/nw.D110000zgqnb_20161107_3-02.htm) <br>
+   &emsp;&emsp;[在线全文](http://zqb.cyol.com/html/2016-11/07/nw.D110000zgqnb%2020161107%203-02.htm) <br>
 6.《谁能领导分化的美国？美国总统选战前瞻》，载《中国人民大学》2016年11月7日第3版。<br>
-   &emsp;&emsp;[在线全文](http://ruc.ihwrm.com/index/article/articleinfo.html?doc_id=1545173)<br>
+   &emsp;&emsp;[在线全文](http://ruc.ihwrm.com/index/article/articleinfo.html?doc%20id=1545173)<br>
 
