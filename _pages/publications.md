@@ -38,18 +38,18 @@ redirect_from:
 
 1.格雷厄姆·艾莉森：《中美能避免修昔底德陷阱吗？》，宋亦明译，载《世界政治研究》，2019年第1辑，第45-49页。<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/translation3.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCJD&dbname=CCJDLAST2&filename=WPJK201901001&uniplatform=NZKPT&v=GyFba9dhAARG5jX-vLbnHvTrtU_5oHSOdjzg4vFNWuX3wqdxafkDj4f0TC_C79Ez) <br>
-2.阿米塔夫·阿查亚：《重新思考世界政治中的权力、制度与观念》，白云真、宋亦明译，上海：上海人民出版社，2019年版。<br>
+2.阿米塔夫·阿查亚：《重新思考世界政治中的权力、制度与观念》，白云真、宋亦明译，上海：上海人民出版社2019年版。<br>
    &emsp;&emsp;[封面及目录](http://sym915.github.io/files/translation2.pdf) &emsp; [购买链接](http://product.dangdang.com/27901108.html) <br>
-3.保罗·维奥蒂：《美元与国家安全：硬权力的货币维度》，白云真、宋亦明译，上海：上海人民出版社，2018年版。<br>
+3.保罗·维奥蒂：《美元与国家安全：硬权力的货币维度》，白云真、宋亦明译，上海：上海人民出版社2018年版。<br>
    &emsp;&emsp;[封面及目录](http://sym915.github.io/files/translation1.pdf) &emsp; [购买链接](http://product.dangdang.com/25287944.html) <br>
 
 ## 编著
 
-1.《中国经济外交蓝皮书（2020）:在世界经济裂变中负重前行》（副主编，与李巍、张玉环等合编），北京：中国社会科学出版社，2020年版。<br>
+1.《中国经济外交蓝皮书（2020）:在世界经济裂变中负重前行》（副主编，与李巍、张玉环等合编），北京：中国社会科学出版社2020年版。<br>
    &emsp;&emsp;[封面及目录](http://sym915.github.io/files/editbook3.pdf) &emsp; [购买链接](http://product.dangdang.com/29149993.html) <br>
-2.《中国经济外交蓝皮书（2019）:纷争年代的大国经济博弈》（副主编，与李巍、张玉环等合编），北京：中国社会科学出版社，2019年版。<br>
+2.《中国经济外交蓝皮书（2019）:纷争年代的大国经济博弈》（副主编，与李巍、张玉环等合编），北京：中国社会科学出版社2019年版。<br>
    &emsp;&emsp;[封面及目录](http://sym915.github.io/files/editbook2.pdf) &emsp; [购买链接](http://product.dangdang.com/27919529.html) <br>
-3.《中国经济外交蓝皮书（2018）:国际经济舞台上的外交引领者》（副主编，与李巍、张玉环等合编），北京：中国社会科学出版社，2018年版。<br>
+3.《中国经济外交蓝皮书（2018）:国际经济舞台上的外交引领者》（副主编，与李巍、张玉环等合编），北京：中国社会科学出版社2018年版。<br>
    &emsp;&emsp;[封面及目录](http://sym915.github.io/files/editbook1.pdf) &emsp; [购买链接](http://product.dangdang.com/25261428.html) <br>
 
 ## 评论
