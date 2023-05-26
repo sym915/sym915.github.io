@@ -66,4 +66,5 @@ redirect_from:
    &emsp;&emsp;[在线全文](http://zqb.cyol.com/html/2016-11/07/nw.D110000zgqnb_20161107_3-02.htm)<br>
 6.《谁能领导分化的美国？美国总统选战前瞻》，载《中国人民大学》2016年11月7日第3版。<br>
    &emsp;&emsp;[在线全文](http://ruc.ihwrm.com/index/article/articleinfo.html?doc%20id=1545173) <br>
+   &emsp;&emsp;<a href="http://ruc.ihwrm.com/index/article/articleinfo.html?doc%20id=1545173">在线全文</a ><br>
 
