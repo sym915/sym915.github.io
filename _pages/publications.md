@@ -21,7 +21,7 @@ redirect_from:
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper8.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=WJXY202002004&uniplatform=NZKPT&v=lEp75hyY-l3VwamVTPGI3PPfmiUUQCnjBEKdne8UyahQVYqM-wU_cTrIILSJEmOa)<br>
 5.《国家维护能源安全手段的选择逻辑：产权制度的视角》，载《国际安全研究》，2020年第1期，第98至130页。<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper7.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=GGXB202001006&uniplatform=NZKPT&v=42OCBm1b1oTjSzlKcZcCcEL-zNRq3N_F-tDTKwzoCDMKZQ75eQ2PkH0Lxv0yLLgW)<br>
-6.《中俄能源外交的历史演进》（第二作者，与于宏源合作），载《区域与全球发展》，2018年第5期，第107至128页。<br>
+6.《中俄能源外交的历史演进》（第二作者，与于宏源合作），载《区域与全球发展》（现更名为《区域国别学刊》），2018年第5期，第107至128页。<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper6.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=QYQQ201805008&uniplatform=NZKPT&v=JJxiKpVmhCLYn6KQDx_tfMkh2tgDxdiV8OQiRG4kOxUALlt1WcX4Wb3dzBd4bkT2)<br>
 7.《国际官僚与国际制度竞争退出》，载《世界经济与政治》，2018年第8期，第62至93页。<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper5.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=SJJZ201808004&uniplatform=NZKPT&v=86dHLgCDysGa7GNZLcOKp0_-wMgQm8db8HnlTkWvzxeL-EYqTXtegHd7-d9SZUX0)<br>
