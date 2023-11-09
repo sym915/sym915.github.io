@@ -66,7 +66,7 @@ redirect_from:
 ## 评论
 
 1.《在国际投资的政治经济学中“找回国家”——评<投资国家能力>》，载《社会科学报》2023年10月26日第8版。<br>
-   &emsp;&emsp;[在线全文](http://sym915.github.io/files/Chapter1.pdf) &emsp;<a href="https://mp.weixin.qq.com/s/hBQeewEsqiTy7QpyQ7x65A">访问链接</a ><br>
+   &emsp;&emsp;[在线全文](http://sym915.github.io/files/review5.pdf) &emsp;<a href="https://mp.weixin.qq.com/s/hBQeewEsqiTy7QpyQ7x65A">访问链接</a ><br>
 2.“Rethinking the National Interest in the World Energy System,” *China International Strategy Review*, Vol.3, No.2, 2021, pp.345-349.<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/review4.pdf) &emsp;<a href="https://link.springer.com/article/10.1007/s42533-021-00084-w">访问链接</a ><br>
 3.《重塑国际能源版图：急速扩张的美国能源出口》，载《世界知识》2018年第12期，第53至55页。<br>
