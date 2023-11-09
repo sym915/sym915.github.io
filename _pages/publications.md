@@ -80,5 +80,3 @@ redirect_from:
 7.《谁能领导分化的美国？美国总统选战前瞻》，载《中国人民大学》2016年11月7日第3版。<br>
    &emsp;&emsp;<a href="http://ruc.ihwrm.com/index/article/articleinfo.html?doc%20id=1545173">在线全文</a ><br>
 
-
-
