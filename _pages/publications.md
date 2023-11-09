@@ -66,11 +66,11 @@ redirect_from:
 ## 评论
 
 1.《在国际投资的政治经济学中“找回国家”——评<投资国家能力>》，载《社会科学报》2023年10月26日第8版。<br>
-   &emsp;&emsp;[在线全文](http://sym915.github.io/files/review5.pdf) &emsp;<a href="https://mp.weixin.qq.com/s/hBQeewEsqiTy7QpyQ7x65A">访问链接</a ><br>
+   &emsp;&emsp;<a href="http://sym915.github.io/files/review5.pdf">在线全文</a >&emsp;<a href="https://mp.weixin.qq.com/s/hBQeewEsqiTy7QpyQ7x65A">访问链接</a ><br>
 2.“Rethinking the National Interest in the World Energy System,” *China International Strategy Review*, Vol.3, No.2, 2021, pp.345-349.<br>
-   &emsp;&emsp;[在线全文](http://sym915.github.io/files/review4.pdf) &emsp;<a href="https://link.springer.com/article/10.1007/s42533-021-00084-w">访问链接</a ><br>
+   &emsp;&emsp;<a href="http://sym915.github.io/files/review4.pdf">在线全文</a >&emsp;<a href="https://link.springer.com/article/10.1007/s42533-021-00084-w">访问链接</a ><br>
 3.《重塑国际能源版图：急速扩张的美国能源出口》，载《世界知识》2018年第12期，第53至55页。<br>
-   &emsp;&emsp;[在线全文](http://sym915.github.io/files/review3.pdf) &emsp;<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=SJZS201812031&uniplatform=NZKPT&v=V5T0XXQqg-RIQat36W2DrzT36HCK4GsvfDccrWNXKOlYIb3IOZcDPnBwq8lHrWjk">知网链接</a ><br>
+   &emsp;&emsp;<a href="http://sym915.github.io/files/review3.pdf">在线全文</a >;<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=SJZS201812031&uniplatform=NZKPT&v=V5T0XXQqg-RIQat36W2DrzT36HCK4GsvfDccrWNXKOlYIb3IOZcDPnBwq8lHrWjk">知网链接</a ><br>
 4.《从石油到天然气：中国维护能源安全主战场的大转移》，载《世界知识》2018年第6期，第54至56页。<br>
    &emsp;&emsp;<a href="http://sym915.github.io/files/review2.pdf">在线全文</a >&emsp;<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=SJZS201806019&uniplatform=NZKPT&v=V5T0XXQqg-St6yDMUBzQWFQhePtHj6mN4RrKlT96x51Owwbf0yY6YR9w8AyqLCLS">知网链接</a ><br>
 5.《特朗普打开中美贸易战的潘多拉魔盒》（第二作者，与李巍合作），载《中国新闻周刊》第818期，第43至45页。<br>
