@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## 学术论文
+## 论文
 
 1.《竞争之后：国际制度竞争的演进逻辑》（第一作者，与李冰合作），载《世界经济与政治》，2023年第11期，第129至159页。<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper14.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms2/article/abstract?v=2Wn7gbiy3W8RgE3EHxyUSpSdA7f1NLjJRceT_f1OeufgC85zH9rAOwxjkKKGCxF38sXd73rXDk5pG5LhgMKZkneZgs5UFz3NYBam3qxewZ2PVNUSnkWED7yv7zIUaoLew-ZXNrH-lk4=&uniplatform=NZKPT&language=CHS)<br>
@@ -40,7 +40,7 @@ redirect_from:
 14.《19世纪末20世纪初美国的拉丁美洲贸易外交》（第三作者，与白云真、石少锋合作），载《拉丁美洲研究》，2015年第4期，第51至57页。<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper1.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2015&filename=LDMZ201504009&uniplatform=NZKPT&v=XWrDupyH212lih79re67IBlv2dBYGsXcRYpOz5mSfihvsoLndImqDm9yXPwq7UoN) <br>
 
-## 译著/译文
+## 译作
 
 1.格雷厄姆·艾莉森：《中美能避免修昔底德陷阱吗？》，宋亦明译，载《世界政治研究》，2019年第1期，第45至49页。<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/translation3.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCJD&dbname=CCJDLAST2&filename=WPJK201901001&uniplatform=NZKPT&v=GyFba9dhAARG5jX-vLbnHvTrtU_5oHSOdjzg4vFNWuX3wqdxafkDj4f0TC_C79Ez) <br>
@@ -73,7 +73,7 @@ redirect_from:
 <br>
    &emsp;&emsp;<a href="http://sym915.github.io/files/review4.pdf">在线全文</a >&emsp;<a href="https://link.springer.com/article/10.1007/s42533-021-00084-w">访问链接</a ><br>
 3.《重塑国际能源版图：急速扩张的美国能源出口》，载《世界知识》2018年第12期，第53至55页。<br>
-   &emsp;&emsp;<a href="http://sym915.github.io/files/review3.pdf">在线全文</a >;<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=SJZS201812031&uniplatform=NZKPT&v=V5T0XXQqg-RIQat36W2DrzT36HCK4GsvfDccrWNXKOlYIb3IOZcDPnBwq8lHrWjk">知网链接</a ><br>
+   &emsp;&emsp;<a href="http://sym915.github.io/files/review3.pdf">在线全文</a >&emsp;<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=SJZS201812031&uniplatform=NZKPT&v=V5T0XXQqg-RIQat36W2DrzT36HCK4GsvfDccrWNXKOlYIb3IOZcDPnBwq8lHrWjk">知网链接</a ><br>
 4.《从石油到天然气：中国维护能源安全主战场的大转移》，载《世界知识》2018年第6期，第54至56页。<br>
    &emsp;&emsp;<a href="http://sym915.github.io/files/review2.pdf">在线全文</a >&emsp;<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=SJZS201806019&uniplatform=NZKPT&v=V5T0XXQqg-St6yDMUBzQWFQhePtHj6mN4RrKlT96x51Owwbf0yY6YR9w8AyqLCLS">知网链接</a ><br>
 5.《特朗普打开中美贸易战的潘多拉魔盒》（第二作者，与李巍合作），载《中国新闻周刊》第818期，第43至45页。<br>
