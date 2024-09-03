@@ -89,9 +89,9 @@ redirect_from:
 3.“Rethinking the National Interest in the World Energy System,” *China International Strategy Review*, Vol.3, No.2, 2021, pp.345-349.<br>
    &emsp;&emsp;<a href="http://sym915.github.io/files/review4.pdf">在线全文</a >&emsp;<a href="https://link.springer.com/article/10.1007/s42533-021-00084-w">访问链接</a ><br>
 4.《重塑国际能源版图：急速扩张的美国能源出口》，载《世界知识》2018年第12期，第53至55页。<br>
-   &emsp;&emsp;<a href="http://sym915.github.io/files/review3.pdf">在线全文</a >&emsp;<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=SJZS201812031&uniplatform=NZKPT&v=V5T0XXQqg-RIQat36W2DrzT36HCK4GsvfDccrWNXKOlYIb3IOZcDPnBwq8lHrWjk">知网链接</a ><br>
+   &emsp;&emsp;<a href="http://sym915.github.io/files/review3.pdf">在线全文</a >&emsp;<a href="https://kns.cnki.net/kcms2/article/abstract?v=WOTiXAdNI6OLqFm47lJP_VUN3-xtB9SSc-f1DpPZCCvrAL277Qx2eQ8NjR2cpC-0FqOpP5qIf-KvnStzoiFwvcQw5pzCyhJuZMCNcov3rQUj3quhSZ-s3dr4y34w8n3lhMkId_9IEjd6RIoJMLLnx7PxATzjee-NT_fuY6u_vGzkRO8REeIusmelOujEgZB6V-_cyh3BD3HbvBv6_1wV334Vu9kwhYbEBtQo6T3xtoGktuYZ60BTIdQn5OmBMUCVVfPWl3_5GlbHa-U84PcY7WnjXfDfBsvWBRSwEbLKeP92whAzf8aN8i3YH8UxYOxKZQwADHKAcUWk6-1rIW8IFn87gD1MXJ9F&uniplatform=NZKPT&language=CHS">知网链接</a ><br>
 5.《从石油到天然气：中国维护能源安全主战场的大转移》，载《世界知识》2018年第6期，第54至56页。<br>
-   &emsp;&emsp;<a href="http://sym915.github.io/files/review2.pdf">在线全文</a >&emsp;<a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=SJZS201806019&uniplatform=NZKPT&v=V5T0XXQqg-St6yDMUBzQWFQhePtHj6mN4RrKlT96x51Owwbf0yY6YR9w8AyqLCLS">知网链接</a ><br>
+   &emsp;&emsp;<a href="http://sym915.github.io/files/review2.pdf">在线全文</a >&emsp;<a href="https://kns.cnki.net/kcms2/article/abstract?v=WOTiXAdNI6P0-lHx8VOwMPzFUqLPaBxNb1N2VMlQhZZypFH4pJIvb9TFLKjRc3YT7_aLixLtReSKt8lPLOq8SiP2qZx6yv7LnpAy9HBPyC7gkKjG-KXIaiOUWJM64QlqaLM_hMqg-Gsv632cEtub7IfOxjhjE_M_e-67heh_N-O3pNxRYikPCEklDZ36fkOZ-2XXsYC9M1Z72U3cVkfFWff9TC9fJMxjw5-Gbr0AELf4XrEUk1e1RM2yJWx7HQJTABY_pS28wV7w3XIKJ8O0R5MbMjwoceIywFb25qmi-7swtMEZLf_GIa3DgjzNVfjCOlrNJxYpYBs6kfqcMuDlJ-cOVW2uMT8D&uniplatform=NZKPT&language=CHS">知网链接</a ><br>
 6.《特朗普打开中美贸易战的潘多拉魔盒》（第二作者，与李巍合作），载《中国新闻周刊》第818期，第43至45页。<br>
    &emsp;&emsp;<a href="http://www.zgxwzk.chinanews.com.cn/2/2017-08-28/463.shtml">在线全文</a ><br>
 7.《评<制衡美元>》，载《中国青年报》2016年11月7日第2版。<br>
