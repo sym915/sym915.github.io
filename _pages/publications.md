@@ -27,7 +27,7 @@ redirect_from:
 6.《能源是福还是祸？——能源丰裕国经济增长分流的政治逻辑》，载《比较政治学研究》，2023年第2期，第295至322页。<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper15.pdf) &emsp; 知网链接 &emsp; [复制代码](http://sym915.github.io/files/paper15-app1.do) &emsp; [复制数据](http://sym915.github.io/files/data.1.EnergyCurse.xlsx)<br>
 7.《竞争之后：国际制度竞争的演进逻辑》（第一作者，与李冰合作），载《世界经济与政治》，2023年第11期，第129至159页。<br>
-   &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper14.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms2/article/abstract?v=2Wn7gbiy3W8RgE3EHxyUSpSdA7f1NLjJRceT_f1OeufgC85zH9rAOwxjkKKGCxF38sXd73rXDk5pG5LhgMKZkneZgs5UFz3NYBam3qxewZ2PVNUSnkWED7yv7zIUaoLew-ZXNrH-lk4=&uniplatform=NZKPT&language=CHS)<br>
+   &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper14.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms2/article/abstract?v=2Wn7gbiy3W8RgE3EHxyUSpSdA7f1NLjJRceT_f1OeufgC85zH9rAOwxjkKKGCxF38sXd73rXDk5pG5LhgMKZkneZgs5UFz3NYBam3qxewZ2PVNUSnkWED7yv7zIUaoLew-ZXNrH-lk4=&uniplatform=NZKPT&language=CHS) &emsp; [内容提纲](http://sym915.github.io/files/paper14-app1.pdf) <br>
 8.《委内瑞拉能源经济的增长何以不彰？——基于经济现代化-产业联盟-产权制度的分析视角》（第一作者，与邹仪婷合作），载《拉丁美洲研究》，2023年第3期，106至130页。<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper13.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKu87-SJxoEJutOehf2D0XouCH-lhM6pGz3TTVPjQwqQ2_aAnicwvs11QBLH5aq1yIZ0ANntNd80P&uniplatform=NZKPT)<br>
 9.《挪威隔绝“能源诅咒”的现代化基础与产业逻辑》（第一作者，与吴泽平合作），载《欧洲研究》，2023年第2期，第109至137页。<br>
@@ -35,7 +35,7 @@ redirect_from:
 10.《疫情阴影下的危机应对——2020年中国经济外交报告》（第二作者，与李巍合作），载《战略决策研究》，2021年第3期，第3至35页。<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper11.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=ZLJC202103001&uniplatform=NZKPT&v=lixjEIarD0ZkM9CGVZpY2sdf2uUxiG1TX9HtTfLuSyU3u-k6m0S8bd8C78_aQT8X)<br>
 11.《制度竞争与国际制度的等级制》，载《世界经济与政治》，2021年第4期，第33至60页。<br>
-   &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper10.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=SJJZ202104003&uniplatform=NZKPT&v=0oEg8l_tJp9Af2rIWZF6G07qa0ewnlYHyvdmljqQ2mgMq1wp-V7w3beDwxVGdyEo)<br>
+   &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper10.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=SJJZ202104003&uniplatform=NZKPT&v=0oEg8l_tJp9Af2rIWZF6G07qa0ewnlYHyvdmljqQ2mgMq1wp-V7w3beDwxVGdyEo) &emsp; [内容提纲](http://sym915.github.io/files/paper10-app1.pdf) <br>
 12.《“能源祝福”与“能源诅咒”的政治分流——基于产权制度的解释》（第一作者，与邹仪婷合作），载《世界政治研究》，2020年第4期，第93至137页。<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper9.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCJD&dbname=CCJDLAST2&filename=WPJK202004005&uniplatform=NZKPT&v=hKx2YeJDmBeQ1oWyCnFKBcNqtJ1rpwMeCN8xmnhmBqLFcRy9r0cwowot3-m6nSOW)<br>
 13.《产业联盟与“能源诅咒”：委内瑞拉与俄罗斯的现代化“宿命”》（第一作者，与张经纬合作），载《外交评论》，2020年第2期，第82至120页。<br>
