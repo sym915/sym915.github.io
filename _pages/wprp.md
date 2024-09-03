@@ -15,9 +15,6 @@ redirect_from:
 2.《国际冲击、优先议程与法国核能政策的三次转向》，2023年11月。<br>
 3.《“能源诅咒”还是“产权诅咒”？——基于伊朗和尼日利亚的考察》，2023年9月。<br>
    &emsp;&emsp;[内容提纲](http://sym915.github.io/files/wprp2.pdf) <br>
-4.《“能源诅咒”的政治起源：现代化始点、产业联盟与产权制度》（博士论文），2022年6月。<br>
-   &emsp;&emsp;[内容提纲](http://sym915.github.io/files/wprp1.pdf) <br>
-
    
 ## 研究议程
 
