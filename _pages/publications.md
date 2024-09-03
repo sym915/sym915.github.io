@@ -58,7 +58,7 @@ redirect_from:
 ## 译作
 
 1.格雷厄姆·艾莉森：《中美能避免修昔底德陷阱吗？》，宋亦明译，载《世界政治研究》，2019年第1期，第45至49页。<br>
-   &emsp;&emsp;[在线全文](http://sym915.github.io/files/translation3.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CCJD&dbname=CCJDLAST2&filename=WPJK201901001&uniplatform=NZKPT&v=GyFba9dhAARG5jX-vLbnHvTrtU_5oHSOdjzg4vFNWuX3wqdxafkDj4f0TC_C79Ez) <br>
+   &emsp;&emsp;[在线全文](http://sym915.github.io/files/translation3.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms2/article/abstract?v=WOTiXAdNI6McCosBcl0gcOOrz_eF959H8-dD4wkIuzukbiVnwLzrzNDJQHnQjJDQk6FzPGkA6GRA30cPPnEAuehuwHBLKtgOMm1SWn4kp-2jUNUbpkmNh7xkuxCo1mtxhaOW834CHLRPYeXg-GwwarrrA-q_jMfwF_z2C-SQ2p5xMlIswITbKcK7fA4dgYuRIeZuTZ2NNGd0ef2wrvZBVxq-nfUvbP4n4sNT24kBHZpmW3Ke9JeqYWriLiKu2rreGrlS4gShQhm1YftTnCc1vnoT6FoF6yqe7K-dBR-hpjP_H3h1V9cHdI3iXAawKcrWWUqxFKI5SN395RtYcqjrRFfmularW_s8&uniplatform=NZKPT&language=CHS) <br>
 2.阿米塔夫·阿查亚：《重新思考世界政治中的权力、制度与观念》，白云真、宋亦明译，上海：上海人民出版社2019年版。<br>
    &emsp;&emsp;[封面目录](http://sym915.github.io/files/translation2.pdf) &emsp; [购买链接](http://product.dangdang.com/27901108.html) <br>
 3.保罗·维奥蒂：《美元与国家安全：硬权力的货币维度》，白云真、宋亦明译，上海：上海人民出版社2018年版。<br>
