@@ -15,7 +15,7 @@ redirect_from:
 
 ## 论文
 1.《拜登政府的国际制度重塑战略：行动、特征与制约》（通讯作者，与卓晔合作），载《东北亚论坛》，2024年第5期，第49至60页。<br>
-   &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper20.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms2/article/abstract?v=WOTiXAdNI6N0AYqIhNERdJH9tgttzET58m0HFJABQAxYaLqlcDzhcbeJNAVmyfldEjtoqzIxJqB1uNsANK3EJxUc5NZEq8L_6lSqP8KtUXi3FlsxKU3GGfS2Es2NWqLqN4O14NnsfRehievOjDMKPByAtcg_IJbcVjpXqBUtyLEwwUMIHmy4TDr5GgrRUOmypV41wzyAJJEOsKYjVPpobWz7YvU1Fez_D6kQx0FwcxqxmyRc3QUc1A==&uniplatform=NZKPT&language=CHS)<br>
+   &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper20.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms2/article/abstract?v=WOTiXAdNI6O-tL5mChA1yh60f7mrleZ0A-7h01BPlOrm3IvFsaiFYKuhet4yURz3XxjJxi30w_CW-Eq3zLdgXaype3ZF6QATdTlBj6r36vwNa1OuAlRvEkh_CRcaw1J1P4wx2wEdQajeGGhX07xIWeeysXKKA9MnA-ZM0cf8qfWiGGXdMjPOAIaLUyMppCe3bQm9ciW-6ijQfT3wcDv60hGkhASGEV8jaB5wQrbUcNZfT04AT-zLlGfw2mDLPChpWe2FCRQWwqw=&uniplatform=NZKPT&language=CHS)<br>
 2.《社区干扰、外国干预与中国在拉丁美洲国家资源类投资的安全风险》（第一作者，与戴璐璟合作），载《拉丁美洲研究》，2024年第4期，第49至75页。<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper19.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms2/article/abstract?v=WOTiXAdNI6OLwKVTTKlWztC8Iy4D4YIvTDjslCfG4V9laA9xqvqvYYFmK5D6URqzI0zfE8BbpSLS-NP6U5L0mBFM_JwX8c4ubSghdxL1zPu18J7v3GX2hjqYw-MPhLzS4KiS7hWqa7ibJB-LITETiXi-Qv8RtzFaDJEXbOolQqFV5BUbUoio6hYD7GvavN2YaPj0et2SHYHN3fRtZ5ahyiWG2bygWBF95m0T-RYHzYqDDFJ1pHR0fw==&uniplatform=NZKPT&language=CHS)<br>
 3.“Low Carbon Development and Energy Security Challenges of International Metropolis: A Case Study of Beijing,” (Corresponding Author, with Kunze Li, Long Xiao, Kai Qi) *Elementa: Science of the Anthropocene*, Vol.12, No.1, 2024, 00074, pp.1-18.<br>
