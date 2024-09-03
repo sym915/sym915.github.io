@@ -11,7 +11,7 @@ redirect_from:
 
 ## 专著
 1.《“能源诅咒”的政治起源：现代化始点、产业联盟与产权制度》，北京：中国社会科学出版社2024年版。<br>
-&emsp;&emsp;封面目录 &emsp; 购买链接 &emsp; [在线附录](http://sym915.github.io/files/book1-app1.pdf) &emsp; [复制代码](http://sym915.github.io/files/book1-app2.do) &emsp; [复制数据](http://sym915.github.io/files/data.1.EnergyCurse.xlsx)<br>
+&emsp;&emsp;封面目录 &emsp; 购买链接 &emsp; [内容提纲](http://sym915.github.io/files/book1-app3.pdf) &emsp; [在线附录](http://sym915.github.io/files/book1-app1.pdf) &emsp; [复制代码](http://sym915.github.io/files/book1-app2.do) &emsp; [复制数据](http://sym915.github.io/files/data.1.EnergyCurse.xlsx)<br>
 
 ## 论文
 1.《拜登政府的国际制度重塑战略：行动、特征与制约》（通讯作者，与卓晔合作），载《东北亚论坛》，2024年第5期，第49至60页。<br>
