@@ -10,7 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## 能源国有化与政权生存
-
+<br>
+<div style="text-align: justify;">
+  
 Paasha Mahdavi, *Power Grab: Political Survival through Extractive Resource Nationalization*, Cambridge: Cambridge University Press, 2020.
 <br>
 
@@ -24,6 +26,7 @@ Paasha Mahdavi, *Power Grab: Political Survival through Extractive Resource Nati
 
 &emsp;&emsp; 除了其内容本身的创新外，*Power Grab*无疑是一部严谨的科学研究，其在研究设计和研究方法也有诸多值得借鉴的地方。首先，在混合研究设计操作要求的指导下，运用案例比较和统计分析，稳健地检验了上述因果框架的有效性。其次，通过大量的档案搜集和学术访谈，尽可能地还原并呈现了伊朗的能源国有化历史。这不仅为读者呈现了细致的历史图景，还为其论证因果机制提供了有说服力的例证。其三，作者建立了涵盖187个国家116个年份的原创数据集，为后续的同类研究提供了重要的数据基础。正因为如此，*Power Grab*一经出版就获得了能源政治经济学界的广泛关注和普遍好评。虽然关于能源国有化成因的讨论和争论还将持续，但政权生存的视角无疑为我们理解能源国有化提供了一把新钥匙。
 <br>
-<br>
+</div>
+
 [原文链接](https://mp.weixin.qq.com/s?__biz=Mzk0NjI3Mjk5Mg==&mid=2247485931&idx=1&sn=ec2905344d4595b682c6f6650ac2fbda&chksm=c309e664f47e6f7277b2eb4492a0fe5595a8641f43680d0378e7b7225451b815b407e1f361fa&scene=21#wechat_redirect)
 
