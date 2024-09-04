@@ -11,7 +11,7 @@ redirect_from:
 
 ## 能源国有化与政权生存
 <br>  
-Paasha Mahdavi, *Power Grab: Political Survival through Extractive Resource Nationalization*, Cambridge: Cambridge University Press, 2020.
+Paasha Mahdavi, *Power Grab: Political Survival through Extractive Resource Nationalization*, Cambridge: Cambridge University Press, 2020.<br>
 <br>
 
 &emsp;&emsp; 对能源公司的资产进行国有化是世界能源市场中的普遍现象，也是能源政治经济学中的重要议题。自20世纪30年代起，全球范围内至少出现了3轮大规模的能源国有化浪潮。另有统计显示，从1960年到2010年的50年间，至少41个国家累计发生了98起能源国有化事件。虽然能源国有化的形式有多种，从直接没收、强制赎买到合同重新谈判等不一而足，但其对地缘政治局势、世界能源价格、全球能源格局等均产生了不容忽视的重要影响。<br>
