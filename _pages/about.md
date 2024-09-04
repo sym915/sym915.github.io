@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-
  <br>
 欢迎浏览我的个人学术网站。以下简介有助于您以最短的时间了解我的基本情况。<br>
 
@@ -21,5 +20,4 @@ redirect_from:
 此外，我正在推进和计划推进的研究可见于[工作论文及研究议程](http://sym915.github.io/wprp/)，期待您针对这些研究提出指导和批评。<br>
  <br>
 学术是我生活中的重要部分但并非全部，闲暇之余我非常喜欢旅行和风光摄影。我的部分摄影作品可见于[摄影](http://sym915.github.io/photos/)。
-
 </div>
