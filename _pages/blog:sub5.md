@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<div style="text-align: justify;">
+
 ## NKU新视界青年学者访谈系列——专访北京外国语大学宋亦明老师
 <br>
 &emsp;&emsp; 本次学人访谈，我们有幸邀请到了北京外国语大学国际关系学院的宋亦明老师。<br>
@@ -33,5 +35,6 @@ redirect_from:
 &emsp;&emsp; 本期学人访谈到此结束，非常感谢宋亦明老师的大力支持与悉心解答，同时也感谢各位读者的阅读与支持。<br>
 <br>
 <br>
+</div>
 [原文链接](https://mp.weixin.qq.com/s/U6USykJW9KIbUx6RVC8K7w)
 
