@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify;">
+<br>
 
- <br>
+<div style="text-align: justify;">
 欢迎浏览我的个人学术网站。以下简介有助于您以最短的时间了解我的基本情况。<br>
 
 ### 简介：<br>
