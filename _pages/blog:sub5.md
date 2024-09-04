@@ -35,7 +35,6 @@ redirect_from:
 &emsp;&emsp; 本期学人访谈到此结束，非常感谢宋亦明老师的大力支持与悉心解答，同时也感谢各位读者的阅读与支持。<br>
 <br>
 <br>
-
 </div>
 
 [原文链接](https://mp.weixin.qq.com/s/U6USykJW9KIbUx6RVC8K7w)
