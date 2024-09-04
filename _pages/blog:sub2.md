@@ -11,8 +11,6 @@ redirect_from:
 
 ## 国际政治经济学中的“盲点”
 <br>
-<div style="text-align: justify;">
-
 Genevieve LeBaron, Daniel Mügge, Jacqueline Best & Colin Hay eds. “Special Issue on ‘Blind Spots in IPE’,” *Review of International Political Economy*, Vol.28, No.2, 2021.<br>
 <br>
 Jacqueline Best, Colin Hay, Genevieve LeBaron, & Daniel Mügge eds.“Blind Spots in Political Economy: Revisiting the Historical Foundations of Current Thought,” *New Political Economy*, Vol.26, No.2, 2021.<br>
@@ -30,7 +28,6 @@ Jacqueline Best, Colin Hay, Genevieve LeBaron, & Daniel Mügge eds.“Blind Spot
 <br>
 &emsp;&emsp; *RIPE*与*NPE*姊妹特刊的组稿编辑也承认，上述所谓的“盲点”并非先前没有人研究和探讨过，而是它们并没有得到学科层面的应有重视。尽管特刊文章中的讨论仍然浅尝辄止、诸多观点也有待商榷，但其在研究领域和研究议程上的启发却不容忽视。国际政治经济学中诸多传统的研究滥觞于20世纪70到80年代，虽然这些研究在文献积累上日益厚重、在学理讨论上日益精细、在经验实证上日益明晰，但对于理解当前变动不居的世界所能提供的知识增量却越发有限。相比之下，在当前和未来愈发重要的现象尤为值得关注，上述“盲点”尤应得到更多探讨。无论是罗伯特·基欧汉（Robert Keohane）在对“旧的国际政治经济学与新的国际政治经济学”的讨论中所列出的世界五大变化，还是*RIPE*与*NPE*姊妹特刊对于经验现象上数十个“盲点”的讨论，他们都再三提醒国际政治经济学的学界同仁不要过于深陷于过去的现象和传统的议程，而是应该去探索当下重要且更具学术增量的现实性问题。<br>
 <br>
-</div>
 
 [原文链接](https://mp.weixin.qq.com/s/LAxk-0BM7H6_VoUdbqtEGw)
 
