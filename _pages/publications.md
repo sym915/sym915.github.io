@@ -83,7 +83,7 @@ redirect_from:
 ## 评论
 
 1.《国际制度竞争的时间维度》，载《世界政治研究》，2023年第4期，第48-54页。<br>
-   &emsp;&emsp;<a href="http://sym915.github.io/files/review6.pdf">在线全文</a >&emsp;<a href="https://mp.weixin.qq.com/s/f7wi4PDsk4nSZBKsEuwN4A">访问链接</a ><br>
+   &emsp;&emsp;<a href="http://sym915.github.io/files/review6.pdf">在线全文</a >&emsp;<a href="https://kns.cnki.net/kcms2/article/abstract?v=ZkvsKdWJ3STYezWeYwb6NMwCJI9zCrbm8GQmifeBCr4NFtjNfoTHx2ytwmSf6rzehNJh52CvuF_Dro_9P1EGIKZbTY3ddo8J68m5Y513zGhBJ0uFpmnXJszlbIFBA48BA3j2FtkBhs4D58VmPRBjc4aGbkIf3_P3CtKWCItuwqhyM5JKdtvbzC8_RreQC4kz&uniplatform=NZKPT&language=CHS">知网链接</a ><br>
 2.《在国际投资的政治经济学中“找回国家”——评<投资国家能力>》，载《社会科学报》2023年10月26日第8版。<br>
    &emsp;&emsp;<a href="http://sym915.github.io/files/review5.pdf">在线全文</a >&emsp;<a href="https://mp.weixin.qq.com/s/hBQeewEsqiTy7QpyQ7x65A">访问链接</a ><br>
 3.“Rethinking the National Interest in the World Energy System,” *China International Strategy Review*, Vol.3, No.2, 2021, pp.345-349.<br>
