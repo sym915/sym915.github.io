@@ -11,6 +11,7 @@ redirect_from:
 
 # 摄影
 
+
 ### 2024年8月，甘肃省兰州市皋兰山
 <img class="fit-picture"
      src="/images/47.JPG"
