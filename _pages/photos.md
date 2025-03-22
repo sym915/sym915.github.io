@@ -11,6 +11,16 @@ redirect_from:
 
 # 摄影
 
+### 2024年8月，甘肃省兰州市皋兰山
+<img class="fit-picture"
+     src="/images/47.JPG"
+     alt="2024年8月，甘肃省兰州市皋兰山">
+<br>
+### 2023年12月，云南省昆明市滇池
+<img class="fit-picture"
+     src="/images/46.JPG"
+     alt="2023年12月，云南省昆明市滇池">
+<br>
 ### 2022年7月，美国圣地亚哥斯克里普斯码头
 <img class="fit-picture"
      src="/images/45.JPG"
