@@ -14,7 +14,7 @@ redirect_from:
 &emsp;&emsp;[封面目录](http://sym915.github.io/files/book1.pdf) &emsp; [购买链接](https://product.dangdang.com/29794383.html) &emsp; [内容提纲](http://sym915.github.io/files/book1-app3.pdf) &emsp; [在线附录](http://sym915.github.io/files/book1-app1.pdf) &emsp; [复制代码](http://sym915.github.io/files/book1-app2.do) &emsp; [复制数据](http://sym915.github.io/files/data.1.EnergyCurse.xlsx)<br>
 
 ## 论文
-1.《“能源诅咒”何以生产？——基于产权制度的解释》（第一作者，与尚庭宇合作），载《国际政治科学》，2025年第1期，网络首发。<br>
+1.《“能源诅咒”何以生产？——基于产权制度的解释》（第一作者，与尚庭宇合作），载《国际政治科学》，2025年第1期，第1-47页。<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper21.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms2/article/abstract?v=Kk8bzUe9ukr2TgRQRp11F_XqLwCJDD8XMfS8RZKmXPQPGcVJWXcu-DAqGkmm9Z4eEVaD7hf9ZaQR_oevw6_zk9OYTIB2-Tp5mZUjDam8qmqRwR8V5u_jkR_z1_EbaBTqI31K8twpr_iC8gBCSKsj14vWUQnx266wKfewPJdJulA8ha2hIjxHDMTHvtNiZVZa&uniplatform=NZKPT&language=CHS)  &emsp; [内容提纲](http://sym915.github.io/files/paper21-app1.pdf) &emsp; [在线附录](https://sym915.github.io/files/paper21-app2.pdf) &emsp; [复制代码](https://sym915.github.io/files/paper21-app3.zip) &emsp; [复制数据](http://sym915.github.io/files/data.1.EnergyCurse.xlsx) <br>
 2.《资源相互依赖的“武器化”和“去武器化”》（第一作者，与姜礼豪、王文龙合作），载《国际经济合作》，2025年第2期，第13至25页。<br>
    &emsp;&emsp;[在线全文](http://sym915.github.io/files/paper22.pdf) &emsp; [知网链接](https://kns.cnki.net/kcms2/article/abstract?v=cO3sNaablhi_muO4lNo-MWIXIPLrYHsrkRb6BwkbvWAbrHRIhfJHFB0JdkOT00BNl8tkUniwhOcMWuKUdLcSMpLpQ9T1xyKMhM5O_m5WPKnlf-nPxP1leUTaM56go3rRSb-FEGSSVzCefv0_MNd5AAYm6wxZszTUfUjUk7xK87xoUpq-9dBzQw==&uniplatform=NZKPT&language=CHS) &emsp; [内容提纲](http://sym915.github.io/files/paper22-app1.pdf) <br>
